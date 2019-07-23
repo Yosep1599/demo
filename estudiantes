@@ -1,0 +1,100 @@
+[
+  {
+    "nombre": "jose",
+    "apellido": "campoverde",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+  {
+    "nombre": "Esthela",
+    "apellido": "Lata",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "mediano"
+  },
+  {
+    "nombre": "Geovanny",
+    "apellido": "Herrera",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Fredy",
+    "apellido": "Herrera",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "mediano"
+  },
+   {
+    "nombre": "Guadalupe",
+    "apellido": "Astudillo",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "mediano"
+  },
+   {
+    "nombre": "Karol",
+    "apellido": "Peñafiel",
+    "ciclo": "4-A",
+    "edad": 18,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Bryan",
+    "apellido": "Romero",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Jhonnatan",
+    "apellido": "Peralta",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Erik",
+    "apellido": "Peralta",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Agustin",
+    "apellido": "Ortega",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  },
+   {
+    "nombre": "Mercy",
+    "apellido": "Sumba",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "mediano"
+  },
+  {
+    "nombre": "Jaime",
+    "apellido": "Sumba",
+    "ciclo": "4-A",
+    "edad": 23,
+    "estatura": "mediano"
+  },
+  {
+    "nombre": "Lorena",
+    "apellido": "Dutan",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "mediano"
+  },
+  {
+    "nombre": "Jeferson",
+    "apellido": "trelles",
+    "ciclo": "4-A",
+    "edad": 19,
+    "estatura": "alto"
+  }
+]
